@@ -11,20 +11,20 @@
 }
 
 body {
-  background-color: #393E46;
+  background-color: #b7dbf1;
 }
 
 h1 {
   margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
+  font-family: 'Oleo Script', cursive;
+  text-shadow: 5px 0 #172e4d;
   font-size: 8rem;
-  color: #4ECCA3;
+  color: #1f4474;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #2e745b;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -34,7 +34,7 @@ img {
 
 footer {
   margin-top: 5%;
-  color: #EEEEEE;
+  color: #b50707;
   text-align: center;
   font-family: 'Indie Flower', cursive;
 
